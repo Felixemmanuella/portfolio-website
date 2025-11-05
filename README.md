@@ -1,8 +1,5 @@
 #[Felix Emmanuella] - Portfolio
 
-#![Portfolio Preview](<img width="1174" height="628" alt="My portfolio" src="https://github.com/user-attachments/assets/f92eac09-483d-4dde-9804-c4e552787970" />
-)
-
 ## 👋 About Me
 I'm a 300-level Computer Science student passionate about creating functional websites and applications. I love seeing my code come to life and solving real-world problems through technology.
 
@@ -18,8 +15,8 @@ I'm a 300-level Computer Science student passionate about creating functional we
 ### Personal Portfolio Website
 - **Description:** My personal portfolio website built with HTML and CSS
 - **Tech:** HTML, CSS, JavaScript
-- **Live Demo:** [Your Portfolio Link]
-- **Code:** [GitHub Repository Link]
+- **Live Demo:** [https://felixemmanuella.github.io/portfolio-website/]
+- **Code:** [github.com/Felixemmanuella/portfolio-website]
 
 ### More Projects Coming Soon!
 I'm currently working on building a calculator and todo app to expand my skills.
