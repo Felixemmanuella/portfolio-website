@@ -1,6 +1,7 @@
-[Your Name] - Portfolio
+#[Felix Emmanuella] - Portfolio
 
-![Portfolio Preview](https://via.placeholder.com/800x400) <!-- Add your actual portfolio screenshot later -->
+#![Portfolio Preview](<img width="1174" height="628" alt="My portfolio" src="https://github.com/user-attachments/assets/f92eac09-483d-4dde-9804-c4e552787970" />
+)
 
 ## 👋 About Me
 I'm a 300-level Computer Science student passionate about creating functional websites and applications. I love seeing my code come to life and solving real-world problems through technology.
